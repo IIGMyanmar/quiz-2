@@ -1,2 +1,3 @@
-# Ways of Disapproving (English Language Quiz)
-An English language quiz project for my client, IIG Myanmar. Developed using HTML, JavaScript, and CSS.
+# Job Interview
+
+Interactive quiz project for our students on the subject of 'Job Interview'. This project features a set of 5 random questions each time, designed to enhance understanding and engagement. Dive in and test your knowledge!
